@@ -48,7 +48,7 @@ allah monitoring over
 + 460+ private hackerone program
 + 135+ bugcrowd program
 + 51+ self-hosted program
-+ 8 intigriti program and checking 5 platform for only scan vulnerabilities to new programs not adding database
++ 8 intigriti program and checking 3 platform
 
 allah streamlines both the processes of data collection and continuous monitoring, automatically triggering notifications via Telegram when program’s new subdomain is detected. Taking the automation a step further, this help security operations run more efficiently through integration with vulnerability scanners to support incident response and overall information security risk management.
 
