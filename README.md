@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/samet-g/niku">
-    <img src="https://user-images.githubusercontent.com/81412659/157318226-4b29df37-ad8c-43a8-b158-e9f0c4c7ea7a.png" alt="Logo" width="80" height="80">
+    <img src="https://user-images.githubusercontent.com/81412659/162406897-bde19f61-f66d-4ba7-a56a-943d4f142377.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">niku</h3>
