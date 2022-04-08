@@ -73,6 +73,9 @@ niku streamlines both the processes of data collection and continuous monitoring
 * [Golang](https://go.dev)
 * [SQLite](https://www.sqlite.org/)
 
+### Bounties
+![Screenshot 2022-04-07 004205](https://user-images.githubusercontent.com/81412659/162406341-841893a4-077b-46c5-9498-254165764979.png)
+
 ## License
 
 It is perfect setup for bug hunters but it is for personal use so it is private, sorry for that ಥ_ಥ
