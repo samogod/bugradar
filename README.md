@@ -31,6 +31,7 @@
       </ul>
     </li>
     <li><a href="#features">Features</a></li>
+    <li><a href="#rewards">Features</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -73,7 +74,7 @@ niku streamlines both the processes of data collection and continuous monitoring
 * [Golang](https://go.dev)
 * [SQLite](https://www.sqlite.org/)
 
-### Bounties
+### Rewards
 ![Screenshot 2022-04-07 004205](https://user-images.githubusercontent.com/81412659/162406341-841893a4-077b-46c5-9498-254165764979.png)
 
 ## License
