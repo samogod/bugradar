@@ -45,7 +45,7 @@ niku is automatically scan custom-built apps, find business-critical security vu
 ![critical](https://user-images.githubusercontent.com/81412659/157320377-279f52ec-e5c0-4677-99af-ca0abf69eb06.png)
 
 niku monitoring over
-+ 1437+ public hackerone program
++ 3000+ public hackerone program
 + 460+ private hackerone program
 + 135+ bugcrowd program
 + 51+ self-hosted program
