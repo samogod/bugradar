@@ -57,11 +57,10 @@ niku streamlines both the processes of data collection and continuous monitoring
 + 100% cloud-based
 + continous monitoring with change notifications by Telegram
 + multiple targets simultaneously scan with multiple-vps 
-+ (20 workers - adding new servers as it possible)
-+ 20x faster results with big scope
-+ advanced vulnerable scanning
++ (20x faster results - adding new servers as it possible)
 + updating every day to new exploits
 + SQLite back-end for custom querying
++ find S3 buckets and dump their buckets
 + highly configurable
 + actively developed
 * your time should be focused on creating something amazing.
