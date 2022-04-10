@@ -39,13 +39,13 @@
 
 ## What is niku?
 
-niku is automatically scan custom-built apps, find business-critical security vulnerabilities, strengthen your web app security with application scanning and using multiple company sources to gather subdomains is critical to an organization’s attack surface visibility — but the process of obtaining all the information necessary through many sources can be overly complicated and time-consuming. Normalizing and correlating the data can also be a tremendous undertaking in addition to keeping up-to-date with API changes over time. However, automated niku tool gather the new subdomain information organizations need for accurate attack surface monitoring, allowing users to focus their energy on be first attacker.
+niku is automates the entire process of reconnaisance, find business-critical security vulnerabilities, strengthen your web app security with application scanning with designed to delegate time consuming tasks to the cloud by distributing the input data to multiple serverless functions and running the tasks in parallel resulting in huge performance boost. Normalizing and correlating the data can also be a tremendous undertaking in addition to keeping up-to-date with API changes over time. However, automated niku tool gather the new subdomain information organizations need for accurate attack surface monitoring, allowing users to focus their energy on be first attacker.
 
 ![medium](https://user-images.githubusercontent.com/81412659/157320369-7bccca35-54c9-4b32-a58e-735b3edc437a.png)
 ![critical](https://user-images.githubusercontent.com/81412659/157320377-279f52ec-e5c0-4677-99af-ca0abf69eb06.png)
 
 niku monitoring over
-+ 3000+ public hackerone program
++ 4000+ public hackerone program
 + 460+ private hackerone program
 + 135+ bugcrowd program
 + 51+ self-hosted program
@@ -54,10 +54,8 @@ niku monitoring over
 niku streamlines both the processes of data collection and continuous monitoring, automatically triggering notifications via Telegram when program’s new subdomain is detected. Taking the automation a step further, this help security operations run more efficiently through integration with vulnerability scanners to support incident response and overall information security risk management.
 
 ### Features
-+ 100% cloud-based
++ distribute a scan of a large set of targets across 300-1000 instances within minutes and get results extremely quickly.
 + continous monitoring with change notifications by Telegram
-+ multiple targets simultaneously scan with multiple-vps 
-+ (20x faster results - adding new servers as it possible)
 + updating every day to new exploits
 + SQLite back-end for custom querying
 + find S3 buckets and dump their buckets
