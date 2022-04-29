@@ -45,8 +45,8 @@
 ![critical](https://user-images.githubusercontent.com/81412659/157320377-279f52ec-e5c0-4677-99af-ca0abf69eb06.png)
 
 ~~niku~~ monitoring over
-+ 4000+ public hackerone program
-+ 460+ private hackerone program
++ 4000+ public hackerone scope
++ 460+ private hackerone scope
 + 135+ bugcrowd program
 + 51+ self-hosted program
 + 8 intigriti program and checking 3 platform
