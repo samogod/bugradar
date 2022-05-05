@@ -75,7 +75,7 @@ bugradar streamlines both the processes of data collection and continuous monito
 
 It is perfect setup for bug hunters but it is for personal use so it is private, sorry for that ಥ_ಥ
 
-Project by: `samet-g`
+Project by: `samet-g` / `samogod`
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
