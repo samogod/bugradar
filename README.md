@@ -52,10 +52,11 @@ bugradar streamlines both the processes of data collection and continuous monito
 
 ### Features
 + distribute a scan of a large set of targets across 300-1000 instances within minutes and get results extremely quickly.
-+ continous monitoring with change notifications by Telegram
++ continuous monitoring with change notifications by Telegram
 + updating every day to new exploits
 + SQLite back-end for custom querying
 + find S3 buckets and dump their buckets
++ safely continuous querying CNAME records for subdomain takeover with manually
 + highly configurable
 + actively developed
 * your time should be focused on creating something amazing.
