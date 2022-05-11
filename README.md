@@ -64,12 +64,12 @@ bugradar streamlines both the processes of data collection and continuous monito
 * you should implement DRY principles to the rest of your life ♥‿♥
 
 ### Built With
-
 * [Python](https://www.python.org)
 * [Golang](https://go.dev)
 * [SQLite](https://www.sqlite.org/)
 
 ### Rewards
+![2022-05-11 18_50_19-HackenProof - Opera](https://user-images.githubusercontent.com/81412659/167893115-afb88604-2e51-4105-8887-13d6b961dfc0.png)
 <img src="https://user-images.githubusercontent.com/81412659/162406341-841893a4-077b-46c5-9498-254165764979.png" width=50% height=50%>
 
 ## License
