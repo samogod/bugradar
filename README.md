@@ -69,7 +69,7 @@ bugradar streamlines both the processes of data collection and continuous monito
 * [SQLite](https://www.sqlite.org/)
 
 ### Rewards
-![2022-05-11 18_50_19-HackenProof - Opera](https://user-images.githubusercontent.com/81412659/167893115-afb88604-2e51-4105-8887-13d6b961dfc0.png)
+![2000dollar](https://user-images.githubusercontent.com/81412659/167896069-9dd9aef6-1351-4e66-9c46-5327e68ceb14.png)
 <img src="https://user-images.githubusercontent.com/81412659/162406341-841893a4-077b-46c5-9498-254165764979.png" width=50% height=50%>
 
 ## License
