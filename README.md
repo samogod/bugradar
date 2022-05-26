@@ -46,7 +46,7 @@ bugradar monitoring over
 + 460+ private hackerone scope
 + 135+ bugcrowd program
 + 51+ self-hosted program
-+ 8 intigriti program and checking 4 platform
++ 50+ intigriti program and checking 6 platform
 
 bugradar streamlines both the processes of data collection and continuous monitoring, automatically triggering notifications via telegram when program’s new subdomain is detected. Taking the automation a step further, this help security operations run more efficiently through integration with vulnerability scanners to support incident response and overall information security risk management.
 
