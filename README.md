@@ -56,6 +56,7 @@ bugradar streamlines both the processes of data collection and continuous monito
 + updating every day to new exploits
 + SQLite back-end for custom querying
 + find S3 buckets and dump their buckets
++ excellent and zeroday fingerprints for subdomain takeover
 + safely continuous querying CNAME records for subdomain takeover with manually
 + highly configurable
 + actively developed
