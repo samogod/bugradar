@@ -72,6 +72,7 @@ bugradar streamlines both the processes of data collection and continuous monito
 ### Rewards
 
 <img src="https://user-images.githubusercontent.com/81412659/167896069-9dd9aef6-1351-4e66-9c46-5327e68ceb14.png" width=40% height=60%>
+<img src="https://user-images.githubusercontent.com/81412659/175363204-b392ec7d-47c4-45b1-8ba2-69915cd745aa.png" width=40% height=60%>
 <img src="https://user-images.githubusercontent.com/81412659/173873096-3305b6d9-b0cc-4efa-a34e-defa4986232e.png" width=60% height=60%>
 <img src="https://user-images.githubusercontent.com/81412659/171703988-413f0d8d-f32b-4e71-87fb-f75ada2dd14f.png" width=30% height=50%>
 <img src="https://user-images.githubusercontent.com/81412659/162406341-841893a4-077b-46c5-9498-254165764979.png" width=30% height=30%>
